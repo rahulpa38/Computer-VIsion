@@ -1,0 +1,11 @@
+polyp,sessile,easy
+polyp,sessile,normal
+polyp,sessile,hard
+polyp,flat,easy
+polyp,flat,normal
+polyp,flat,hard
+polyp,predunculated,easy
+polyp,predunculated,medium
+polyp,predunculated,hard
+no_polyp,discard
+no_polyp
